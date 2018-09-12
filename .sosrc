@@ -1,0 +1,3 @@
+- patterns: 
+    - src/.*\.rs$
+  command: cargo build

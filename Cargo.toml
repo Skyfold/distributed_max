@@ -1,0 +1,8 @@
+[package]
+name = "distributed_max"
+version = "0.1.0"
+authors = ["pfalzgraf <pfalzgraf@drmartin.com>"]
+
+[dependencies]
+
+rand = "0.4.0"
